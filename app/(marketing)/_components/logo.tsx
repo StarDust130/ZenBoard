@@ -16,7 +16,7 @@ export const Logo = () => {
         height="40"
         width="40"
         alt="Logo"
-        className="dark:hidden"
+       
       />
 
       <p className={cn("font-semibold", font.className)}>ZenBoard</p>

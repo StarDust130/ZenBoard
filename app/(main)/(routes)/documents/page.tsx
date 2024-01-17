@@ -34,7 +34,7 @@ const DocumentsPage = () => {
         height="300"
         width="300"
         alt="Empty"
-        className="dark:hidden"
+       
       />
       <h2 className="text-lg font-medium">
         Welcome to {user?.firstName}&apos;s ZenBoard

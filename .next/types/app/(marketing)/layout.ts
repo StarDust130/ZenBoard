@@ -1,4 +1,4 @@
-// File: C:\Users\chand\OneDrive\Desktop\zenboard\app\(marketing)\layout.tsx
+// File: C:\Users\chand\OneDrive\Desktop\notion-clone\ZenBoard\app\(marketing)\layout.tsx
 import * as entry from '../../../../app/(marketing)/layout.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

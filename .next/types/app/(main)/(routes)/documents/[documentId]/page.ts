@@ -1,4 +1,4 @@
-// File: C:\Users\chand\OneDrive\Desktop\zenboard\app\(main)\(routes)\documents\[documentId]\page.tsx
+// File: C:\Users\chand\OneDrive\Desktop\notion-clone\ZenBoard\app\(main)\(routes)\documents\[documentId]\page.tsx
 import * as entry from '../../../../../../../app/(main)/(routes)/documents/[documentId]/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

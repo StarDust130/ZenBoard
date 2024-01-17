@@ -1,4 +1,4 @@
-// File: C:\Users\chand\OneDrive\Desktop\zenboard\app\api\edgestore\[...edgestore]\route.ts
+// File: C:\Users\chand\OneDrive\Desktop\notion-clone\ZenBoard\app\api\edgestore\[...edgestore]\route.ts
 import * as entry from '../../../../../../app/api/edgestore/[...edgestore]/route.js'
 import type { NextRequest } from 'next/server.js'
 
