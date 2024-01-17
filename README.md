@@ -1,8 +1,10 @@
-# ZenBoard 🚀🧘‍♂️ (Under Development) 🚧
+# ZenBoard 🚀🧘‍♂️
 
 <div align="center">
   <img src="https://wallpaperaccess.com/full/1217172.jpg" alt="ZenBoard Logo" style="width: 100%; max-width: 800px; border-radius: 8px;">
 </div>
+
+## [See Live](https://zen-board-stardust.vercel.app)  🪝
 
 
 ## Welcome to ZenBoard 🌟
