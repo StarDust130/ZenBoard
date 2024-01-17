@@ -1,5 +1,6 @@
 {
+  "/icon.png/route": "app/icon.png/route.js",
   "/(marketing)/page": "app/(marketing)/page.js",
-  "/(main)/(routes)/documents/page": "app/(main)/(routes)/documents/page.js",
-  "/(main)/(routes)/documents/[documentId]/page": "app/(main)/(routes)/documents/[documentId]/page.js"
+  "/api/edgestore/[...edgestore]/route": "app/api/edgestore/[...edgestore]/route.js",
+  "/(main)/(routes)/documents/page": "app/(main)/(routes)/documents/page.js"
 }
